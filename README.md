@@ -4,7 +4,7 @@
 
 A web proxy passes along http protocol requests like any other proxy server. However, the web proxy accepts target URLs within a user's browser window, processes the request, and then displays the contents of the requested URL immediately back within the user's browser. This is generally quite different than a corporate intranet proxy which some people mistakenly refer to as a web proxy.
 
-[![Build Status](http://upload.wikimedia.org/wikipedia/commons/1/19/Forward_proxy_h2g2bob.svg)]
+![Build Status](http://upload.wikimedia.org/wikipedia/commons/1/19/Forward_proxy_h2g2bob.svg)
 
 ## Features
 
