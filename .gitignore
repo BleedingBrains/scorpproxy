@@ -14,7 +14,7 @@ develop-eggs
 .installed.cfg
 .project
 .settings
-
+.classpath
 
 
 # Installer logs
