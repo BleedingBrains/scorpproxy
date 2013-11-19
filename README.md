@@ -14,7 +14,12 @@ A web proxy passes along http protocol requests like any other proxy server. How
 
 ## Configuration and Deployment
 
-Just take a war and deploy on any java based web server (ex. Tomcat, JBoss, Glassfish) not a special things to do.
+for development
++ Eclipse Heliose or newer
++ Tomcat v6 or newer
++ JDK 6 or newer
+
+Just build take a war and deploy on any java based web server (ex. Tomcat, JBoss, Glassfish) no any special things to do.
 
 ## Issues and Support
 
@@ -30,3 +35,4 @@ https://github.com/ameyjadiye/scorpproxy/issues
 
 Licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/LICENSE-2.0
 
+![Build Status](http://creativecommons.org/images/deed/seal.png)
